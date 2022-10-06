@@ -153,7 +153,7 @@ local function CreateEPGPFrame()
   t:SetWidth(250)
   t:SetHeight(16)
   t:SetPoint("TOP", f, "TOP", 3, -16)
-  t:SetText("EPGP-Classic "..EPGP.version)
+  t:SetText("EPGP-WOTLK "..EPGP.version)
 
   local cb = CreateFrame("Button", nil, f, "UIPanelCloseButton")
   cb:SetPoint("TOPRIGHT", f, "TOPRIGHT", -30, -8)

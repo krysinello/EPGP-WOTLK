@@ -159,8 +159,62 @@ lib.encounters = {
   [1118] = { name = L["Patchwerk"], instance = 533},
   [1119] = { name = L["Sapphiron"], instance = 533},
   [1120] = { name = L["Thaddius"], instance = 533},
-  [1121] = { name = L["The Four Horsemen"], instance = 533}
+  [1121] = { name = L["The Four Horsemen"], instance = 533},
+
+  -- Icecrown Citadel
+  [1095] = { name = L["Blood Council"], instance = 631},
+  [1096] = { name = L["Deathbringer Saurfang"], instance = 631},
+  [1097] = { name = L["Festergut"], instance = 631},
+  [1098] = { name = L["Valithria Dreamwalker"], instance = 631},
+  [1099] = { name = L["Icecrown Gunship Battle"], instance = 631},
+  [1100] = { name = L["Lady Deathbringer"], instance = 631},
+  [1101] = { name = L["Lord Marrowgar"], instance = 631},
+  [1102] = { name = L["Professor Putricide"], instance = 631},
+  [1103] = { name = L["Queen Lana'thel"], instance = 631},
+  [1104] = { name = L["Rotface"], instance = 631},
+  [1105] = { name = L["Sindragosa"], instance = 631},
+  [1106] = { name = L["The Lich King"], instance = 631},
+
+  -- The Eye of Eternity
+  [1094] = { name = L["Malygos"], instance = 616},
+
+  -- The Obsidian Sanctum
+  [1090] = { name = L["Sartharion"], instance = 615},
+  [1091] = { name = L["Shadron"], instance = 615},
+  [1092] = { name = L["Tenebron"], instance = 615},
+  [1093] = { name = L["Vesperon"], instance = 615},
+
+  -- The Ruby Sanctum
+  [1147] = { name = L["Baltharus the Warborn"], instance = 724},
+  [1148] = { name = L["General Zarithrian"], instance = 724},
+  [1149] = { name = L["Saviana Ragefire"], instance = 724},
+  [1150] = { name = L["Halion"], instance = 724},
+
+  -- Trial of the Crusader
+  [1085] = { name = L["Anub'arak"], instance = 649},
+  [1086] = { name = L["Faction Champions"], instance = 649},
+  [1087] = { name = L["Lord Jaraxus"], instance = 649},
+  [1088] = { name = L["Northrend Beasts"], instance = 649},
+  [1089] = { name = L["Val'kyr Twins"], instance = 649},
+  -- Ulduar
+  [1130] = { name = L["Algalon the Observer"], instance = 603},
+  [1131] = { name = L["Auriaya"], instance = 603},
+  [1132] = { name = L["Flame Leviathan"], instance = 603},
+  [1133] = { name = L["Freya"], instance = 603},
+  [1134] = { name = L["General Vezax"], instance = 603},
+  [1135] = { name = L["Hodir"], instance = 603},
+  [1136] = { name = L["Ignis the Furnace Master"], instance = 603},
+  [1137] = { name = L["Kologarn"], instance = 603},
+  [1138] = { name = L["Mimiron"], instance = 603},
+  [1139] = { name = L["Razorscale"], instance = 603},
+  [1140] = { name = L["The Assembly of Iron"], instance = 603},
+  [1141] = { name = L["Thorim"], instance = 603},
+  [1142] = { name = L["XT-002 Deconstructor"], instance = 603},
+  [1143] = { name = L["Yogg-Saron"], instance = 603}
+
 }
+
+  
 
 lib.instances = {
   [249] = { name = L["Onyxia's Lair"] },
@@ -177,5 +231,11 @@ lib.instances = {
   [548] = { name = L["Coilfang: Serpentshrine Cavern"] },
   [550] = { name = L["Tempest Keep"] },
   [565] = { name = L["Gruul's Lair"] },
-  [580] = { name = L["The Sunwell"] }
+  [580] = { name = L["The Sunwell"] },
+  [631] = { name = L["Icecrown Citadel"] },
+  [616] = { name = L["The Eye of Eternity"] },
+  [615] = { name = L["The Obsidian Sanctum"] },
+  [724] = { name = L["The Ruby Sanctum"] },
+  [649] = { name = L["Trial of the Crusader"] },
+  [603] = { name = L["Ulduar"] }
 }
