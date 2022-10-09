@@ -919,14 +919,14 @@ local function EPGPSideFrameEPDropDown_SetList(dropDown)
   --   end
   -- end
 
-  tinsert(list, LE["Karazhan"])
-  tinsert(list, LE["Magtheridon's Lair"])
-  tinsert(list, LE["Gruul's Lair"])
-  tinsert(list, LE["Coilfang: Serpentshrine Cavern"])
-  tinsert(list, LE["Tempest Keep"])
-  tinsert(list, LE["The Battle for Mount Hyjal"])
-  tinsert(list, LE["Black Temple"])
-  tinsert(list, LE["The Sunwell"])
+  tinsert(list, LE["Naxxramas"])
+  tinsert(list, LE["Obsidian Sanctum"])
+  tinsert(list, LE["Eye of Eternity"])
+  tinsert(list, LE["Ulduar"])
+  tinsert(list, LE["Trial of the Crusade"])
+  tinsert(list, LE["Onyxia"])
+  tinsert(list, LE["Icecrown Citadel"])
+  tinsert(list, LE["Ruby Sanctum"])
   tinsert(list, OTHER)
 
   dropDown:SetList(list)
